@@ -1,0 +1,4 @@
+promises
+\fulfilled
+\rejected
+\pending
